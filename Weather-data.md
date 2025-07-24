@@ -12,5 +12,17 @@ api.openweathermap.org
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/22c9df06-7694-4e8a-afd0-0a18553f0b02" />
 
+<img width="740" height="849" alt="image" src="https://github.com/user-attachments/assets/b681da4c-51f7-4adb-b2b6-4b6d8b7c6192" />
+
+<img width="792" height="692" alt="image" src="https://github.com/user-attachments/assets/e456045e-a0a3-41e1-8a15-b80a1997e08d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d2ef65f9-b35b-418b-920d-4d9b441058c6" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d734c28-5cb3-46e0-a1bd-ebb8cfced802" />
+
+
+
+
+
 
 
